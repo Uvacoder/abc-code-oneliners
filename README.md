@@ -1,5 +1,5 @@
 # Favorite single line of code
-
+--
 What's your favorite JavaScript single LOC (line of code)? Let me know!
 
 ## Running it on local
